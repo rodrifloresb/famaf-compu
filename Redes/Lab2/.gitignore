@@ -1,0 +1,12 @@
+*.pyc
+
+# Los entornos virtuales no se versionan
+.venv
+.env
+venv
+env
+
+.pytest_cache
+__pycache__
+
+testdata/*
